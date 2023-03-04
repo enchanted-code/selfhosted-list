@@ -3,7 +3,7 @@ List of services that can be self-hosted and have been showcased on the site.
 
 Contribution is welcome if it is updating/fixing content, or adding a missing service that has been featured on the site.
 
-- < Name > | < Review Link > | < When > | < Status > |
+- < Name > | < Site > | < Repository > | < Review Link > | < When > | < Status > |
 - Status
     - :construction: (Marked As Pre Release)
     - :ok: (Actively Worked On)
