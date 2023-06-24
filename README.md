@@ -29,7 +29,7 @@ Contribution is welcome if it is updating/fixing content, or adding a missing se
 
 ## File Management
 
-- Dufs | N/A | [Repository](https://github.com/AnalogJ/scrutiny) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-4/#scrutiny) | `2023-03-04` | :ok: |
+- Dufs | N/A | [Repository](https://github.com/sigoden/dufs) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-4/#dufs) | `2023-03-04` | :ok: |
 - File Browser | N/A | [Repository](github.com/filebrowser/filebrowser) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-2/#file-browser) | `2022-09-02` | :ok: |
 
 ## Monitoring & Alerting
