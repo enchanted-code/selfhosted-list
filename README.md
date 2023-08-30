@@ -1,5 +1,5 @@
 # Self Hosted List
-List of services that can be self-hosted and have been showcased on the site.
+List of services that can be self-hosted and have been showcased on the site (Should only show fully Open Source software).
 
 Contribution is welcome if it is updating/fixing content, or adding a missing service that has been featured on the site.
 
@@ -38,9 +38,13 @@ Contribution is welcome if it is updating/fixing content, or adding a missing se
 - Scrutiny | N/A | [Repository](https://github.com/AnalogJ/scrutiny) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-4/#scrutiny) | `2023-03-04` | :construction: |
 - Uptime Kuma | [Site](https://uptime.kuma.pet/) | [Repository](https://github.com/louislam/uptime-kuma) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-1/#uptime-kuma) | `2022-08-11` | :ok: |
 
+## Task Management
+- Vikunja | [Site](https://vikunja.io/)  | [Repository](https://github.com/go-vikunja) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-5/#vikunja) | `2023-08-30` | :ok: |
+
 ## Software Development
 
 - Code Server | N/A | [Repository](https://github.com/coder/code-server) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-4/#code-server) | `2023-03-04` | :ok: |
+- Gitea | [Site](https://about.gitea.com/)  | [Repository](https://github.com/go-gitea/gitea) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-5/#gitea) | `2023-08-30` | :ok: |
 
 ## Password Manager
 
@@ -52,3 +56,11 @@ Contribution is welcome if it is updating/fixing content, or adding a missing se
 
 ## Wiki
 - Wiki.JS | [Site](https://js.wiki/) | [Repository](https://github.com/Requarks/wiki) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-1/#wikijs) | `2022-08-11` | :ok: |
+
+## Tools
+
+- It Tools | [Site](https://it-tools.tech/) | [Repository](https://github.com/CorentinTh/it-tools) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-5/#it-tools) | `2023-08-30` | :ok: |
+
+## Website & Blogging
+
+- Hugo | [Site](https://gohugo.io/) | [Repository](https://github.com/gohugoio/hugo) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-5/#hugo) | `2023-08-30` | :ok: |
