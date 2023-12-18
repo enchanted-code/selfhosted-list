@@ -57,6 +57,12 @@ Contribution is welcome if it is updating/fixing content, or adding a missing se
 ## Wiki
 - Wiki.JS | [Site](https://js.wiki/) | [Repository](https://github.com/Requarks/wiki) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-1/#wikijs) | `2022-08-11` | :ok: |
 
+## Note Taking
+- memos | [Site](https://usememos.com/) | [Repository](https://github.com/usememos/memos) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-6) | `2023-12-05` | :ok: |
+- flatnotes | - | [Repository](https://github.com/Dullage/flatnotes) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-6) | `2023-12-05` | :ok: |
+- HedgeDoc | [Site](https://hedgedoc.org) | [Repository](https://github.com/hedgedoc/hedgedoc) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-6) | `2023-12-05` | :ok: |
+- Note Mark | [Site](https://notemark.docs.enchantedcode.co.uk/) | [Repository](https://github.com/enchant97/note-mark) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-6) | `2023-12-05` | :ok: |
+
 ## Tools
 
 - It Tools | [Site](https://it-tools.tech/) | [Repository](https://github.com/CorentinTh/it-tools) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-5/#it-tools) | `2023-08-30` | :ok: |
