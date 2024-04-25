@@ -39,6 +39,10 @@ Contribution is welcome if it is updating/fixing content, or adding a missing se
 - Uptime Kuma | [Site](https://uptime.kuma.pet/) | [Repository](https://github.com/louislam/uptime-kuma) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-1/#uptime-kuma) | `2022-08-11` | :ok: |
 
 ## Task Management
+
+- Planka | [Site](https://planka.app) | [Repository](https://github.com/plankanban/planka) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-7/) | `2024-04-24` | :ok: |
+- Tasks.md | N/A | [Repository](https://github.com/BaldissaraMatheus/Tasks.md) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-7/) | `2024-04-24` | :ok: |
+- Nullboard | N/A |[Repository](https://github.com/apankrat/nullboard) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-7/) | `2024-04-24` | :construction: |
 - Vikunja | [Site](https://vikunja.io/)  | [Repository](https://github.com/go-vikunja) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-5/#vikunja) | `2023-08-30` | :ok: |
 
 ## Software Development
