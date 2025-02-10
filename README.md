@@ -37,6 +37,7 @@ Contribution is welcome if it is updating/fixing content, or adding a missing se
 - Dashdot | N/A | [Repository](https://github.com/MauriceNino/dashdot) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-2/#dashdot) | `2022-09-02` | :ok: |
 - Scrutiny | N/A | [Repository](https://github.com/AnalogJ/scrutiny) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-4/#scrutiny) | `2023-03-04` | :construction: |
 - Uptime Kuma | [Site](https://uptime.kuma.pet/) | [Repository](https://github.com/louislam/uptime-kuma) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-1/#uptime-kuma) | `2022-08-11` | :ok: |
+- Beszel | N/A | [Repository](https://github.com/henrygd/beszel) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-8/) | `2025-01-31` | :ok: |
 
 ## Task Management
 
@@ -44,11 +45,16 @@ Contribution is welcome if it is updating/fixing content, or adding a missing se
 - Tasks.md | N/A | [Repository](https://github.com/BaldissaraMatheus/Tasks.md) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-7/) | `2024-04-24` | :ok: |
 - Nullboard | N/A |[Repository](https://github.com/apankrat/nullboard) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-7/) | `2024-04-24` | :construction: |
 - Vikunja | [Site](https://vikunja.io/)  | [Repository](https://github.com/go-vikunja) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-5/#vikunja) | `2023-08-30` | :ok: |
+- tududi | N/A | [Repository](https://github.com/chrisvel/tududi) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-8/) | `2025-01-31` | :construction: |
 
 ## Software Development
 
 - Code Server | N/A | [Repository](https://github.com/coder/code-server) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-4/#code-server) | `2023-03-04` | :ok: |
 - Gitea | [Site](https://about.gitea.com/)  | [Repository](https://github.com/go-gitea/gitea) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-5/#gitea) | `2023-08-30` | :ok: |
+
+## Money Management
+
+- Wallos | N/A | [Repository](https://github.com/ellite/Wallos) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-8/) | `2025-01-31` | :ok: |
 
 ## Password Manager
 
@@ -59,9 +65,11 @@ Contribution is welcome if it is updating/fixing content, or adding a missing se
 - Whitebophir | [Site](https://wbo.ophir.dev/) | [Repository](https://github.com/lovasoa/whitebophir) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-2/#wbo) | `2022-09-02` | :ok: |
 
 ## Wiki
+
 - Wiki.JS | [Site](https://js.wiki/) | [Repository](https://github.com/Requarks/wiki) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-1/#wikijs) | `2022-08-11` | :ok: |
 
 ## Note Taking
+
 - memos | [Site](https://usememos.com/) | [Repository](https://github.com/usememos/memos) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-6) | `2023-12-05` | :ok: |
 - flatnotes | - | [Repository](https://github.com/Dullage/flatnotes) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-6) | `2023-12-05` | :ok: |
 - HedgeDoc | [Site](https://hedgedoc.org) | [Repository](https://github.com/hedgedoc/hedgedoc) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-6) | `2023-12-05` | :ok: |
