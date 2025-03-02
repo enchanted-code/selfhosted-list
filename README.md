@@ -74,6 +74,9 @@ Contribution is welcome if it is updating/fixing content, or adding a missing se
 - flatnotes | - | [Repository](https://github.com/Dullage/flatnotes) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-6) | `2023-12-05` | :ok: |
 - HedgeDoc | [Site](https://hedgedoc.org) | [Repository](https://github.com/hedgedoc/hedgedoc) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-6) | `2023-12-05` | :ok: |
 - Note Mark | [Site](https://notemark.docs.enchantedcode.co.uk/) | [Repository](https://github.com/enchant97/note-mark) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-6) | `2023-12-05` | :ok: |
+- TriliumNext | - | [Repository](https://github.com/TriliumNext/Notes) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-9) | `2025-02-28` | :ok: |
+- Many Notes | - | [Repository](https://github.com/brufdev/many-notes) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-9) | `2025-02-28` | :construction: |
+- Plainpad | [Site](https://alextselegidis.com/get/plainpad) | [Repository](https://github.com/alextselegidis/plainpad) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-9) | `2025-02-28` | :ok: |
 
 ## Tools
 
