@@ -77,6 +77,9 @@ Contribution is welcome if it is updating/fixing content, or adding a missing se
 - TriliumNext | - | [Repository](https://github.com/TriliumNext/Notes) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-9) | `2025-02-28` | :ok: |
 - Many Notes | - | [Repository](https://github.com/brufdev/many-notes) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-9) | `2025-02-28` | :construction: |
 - Plainpad | [Site](https://alextselegidis.com/get/plainpad) | [Repository](https://github.com/alextselegidis/plainpad) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-9) | `2025-02-28` | :ok: |
+- Nanote | - | [Repository](https://github.com/omarmir/nanote) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-10) | `2025-03-30` | :construction: |
+- Memory | - | [Repository](https://github.com/yousboot/Memory) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-10) | `2025-03-30` | :construction: |
+- DumbPad | - | [Repository](https://github.com/DumbWareio/DumbPad) | [Review](https://enchantedcode.co.uk/blog/now-self-hosted-10) | `2025-03-30` | :ok: |
 
 ## Tools
 
