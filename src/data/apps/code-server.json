@@ -1,0 +1,14 @@
+{
+    "title": "Code Server",
+    "description": "VS Code in the browser",
+    "tags": [
+        "software-development"
+    ],
+    "state": "stable",
+    "lastChecked": "2023-03-04",
+    "links": {
+        "website": null,
+        "source": "https://github.com/coder/code-server",
+        "review": "https://enchantedcode.co.uk/blog/now-self-hosted-4/#code-server"
+    }
+}

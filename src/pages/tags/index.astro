@@ -1,0 +1,23 @@
+---
+import { getCollection } from "astro:content"
+import Base from "~/components/Base.astro";
+
+const tags = await getCollection("tags");
+---
+
+<Base>
+    <div class="p-4">
+        <h1 class="text-4xl font-bold mb-2">Apps</h1>
+        <ul class="list bg-base-200">
+            {tags.map(post => (
+                <li class="list-row flex items-center">
+                    <div>
+                        <span class="text-lg font-bold">{post.data.title}</span>
+                        <p class="ml-4">{post.data.description}</p>
+                    </div>
+                    <a class="btn btn-soft ml-auto" href={`/tags/${post.id}`}>Related Apps</a>
+                </li>
+            ))}
+        </ul>
+    </div>
+</Base>

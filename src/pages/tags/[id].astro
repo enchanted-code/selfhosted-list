@@ -1,0 +1,42 @@
+---
+import { getCollection, render } from 'astro:content';
+import Base from '~/components/Base.astro';
+export async function getStaticPaths() {
+  const tags = await getCollection("tags");
+  return tags.map(post => ({
+    params: { id: post.id },
+    props: { post },
+  }));
+}
+const { post } = Astro.props;
+const { Content } = await render(post);
+const apps = (await getCollection("apps")).filter(app => app.data.tags.includes(post.id));
+---
+<Base>
+    <div class="p-4">
+        <h1 class="text-4xl font-bold mb-2">{post.data.title} Apps</h1>
+        <p>{post.data.description}</p>
+        <ul class="list bg-base-200">
+            {apps.map(app => (
+                <li class="list-row flex items-center">
+                    <div>
+                        <span class="text-lg font-bold">{app.data.title}</span>
+                        <ul class="flex gap-2 ml-4">
+                        {app.data.tags.map(tag => (
+                            <li class="badge badge-sm badge-neutral"><a href=`/tags/${tag}`>{tag}</a></li>
+                        ))}
+                        </ul>
+                        <p class="ml-4">{app.data.description}</p>
+                    </div>
+                    <div class="ml-auto">
+                        {app.data.state === "unstable" && <div class="badge badge-soft badge-warning">Unstable</div>}
+                        {app.data.state === "stable" && <div class="badge badge-soft badge-success">Stable</div>}
+                        {app.data.state === "abandoned" && <div class="badge badge-soft badge-error">Abandoned</div>}
+                        <a class="btn btn-soft" href={`/apps/${app.id}`}>More Info</a>
+                    </div>
+                </li>
+            ))}
+        </ul>
+        <Content/>
+    </div>
+</Base>

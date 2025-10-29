@@ -1,0 +1,14 @@
+{
+    "title": "Beszel",
+    "description": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+    "tags": [
+        "monitoring"
+    ],
+    "state": "stable",
+    "lastChecked": "2025-01-31",
+    "links": {
+        "website": null,
+        "source": "https://github.com/henrygd/beszel",
+        "review": "https://enchantedcode.co.uk/blog/now-self-hosted-8/"
+    }
+}

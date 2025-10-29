@@ -1,0 +1,15 @@
+{
+    "title": "Dashdot",
+    "description": "A simple, modern server dashboard",
+    "tags": [
+        "dashboard",
+        "monitoring"
+    ],
+    "state": "stable",
+    "lastChecked": "2022-09-02",
+    "links": {
+        "website": null,
+        "source": "https://github.com/MauriceNino/dashdot",
+        "review": "https://enchantedcode.co.uk/blog/now-self-hosted-2/#dashdot"
+    }
+}

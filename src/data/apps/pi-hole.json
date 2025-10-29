@@ -1,0 +1,14 @@
+{
+    "title": "Pi-Hole",
+    "description": "A black hole for Internet advertisements.",
+    "tags": [
+        "dns"
+    ],
+    "state": "stable",
+    "lastChecked": "2022-09-02",
+    "links": {
+        "website": "https://pi-hole.net/",
+        "source": "https://github.com/pi-hole/pi-hole",
+        "review": "https://enchantedcode.co.uk/blog/now-self-hosted-2/#pi-hole"
+    }
+}

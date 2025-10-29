@@ -1,0 +1,14 @@
+{
+    "title": "File Browser",
+    "description": "Web file browser",
+    "tags": [
+        "file-management"
+    ],
+    "state": "stable",
+    "lastChecked": "2022-09-02",
+    "links": {
+        "website": null,
+        "source": "https://github.com/filebrowser/filebrowser",
+        "review": "https://enchantedcode.co.uk/blog/now-self-hosted-2/#file-browser"
+    }
+}

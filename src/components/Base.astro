@@ -1,0 +1,29 @@
+---
+import '~/styles/global.css'
+import Head from './Head.astro'
+---
+<html lang="en">
+	<head>
+	    <Head title="Self-Hosted List" description="" />
+	</head>
+	<body>
+        <header class="navbar bg-base-300 p-3">
+            <span class="flex-1">
+            <a class="btn btn-ghost text-2xl" href="/">Self-Hosted List</a>
+            </span
+            <nav>
+                 <menu class="menu menu-horizontal">
+                    <li><a href="/apps">Apps</a></li>
+                    <li><a href="/tags">Tags</a></li>
+                 </menu>
+            </nav>
+        </header>
+        <slot />
+        <footer class="footer sm:footer-horizontal footer-center bg-base-300 text-base-content p-4 mt-26">
+            <aside>
+                <p>Made By Leo Spratt</p>
+                <a class="link" target="_blank" href="https://github.com/enchanted-code/selfhosted-list">Source Code</a>
+            </aside>
+        </footer>
+	</body>
+</html>

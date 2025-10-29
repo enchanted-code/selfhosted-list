@@ -1,0 +1,14 @@
+{
+    "title": "Scrutiny",
+    "description": "Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds",
+    "tags": [
+        "monitoring"
+    ],
+    "state": "unstable",
+    "lastChecked": "2023-03-04",
+    "links": {
+        "website": null,
+        "source": "https://github.com/AnalogJ/scrutiny",
+        "review": "https://enchantedcode.co.uk/blog/now-self-hosted-4/#scrutiny"
+    }
+}

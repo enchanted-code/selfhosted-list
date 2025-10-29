@@ -1,0 +1,14 @@
+{
+    "title": "Note Mark",
+    "description": "A lighting fast and minimal; web-based Markdown notes app.",
+    "tags": [
+        "note-taking"
+    ],
+    "state": "stable",
+    "lastChecked": "2025-10-29",
+    "links": {
+        "website": "https://notemark.docs.enchantedcode.co.uk",
+        "source": "https://github.com/enchant97/note-mark",
+        "review": "https://enchantedcode.co.uk/blog/now-self-hosted-6"
+    }
+}

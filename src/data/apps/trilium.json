@@ -1,0 +1,15 @@
+{
+    "title": "Trilium",
+    "description": "Build your personal knowledge base.",
+    "tags": [
+        "note-taking",
+        "wiki"
+    ],
+    "state": "stable",
+    "lastChecked": "2025-10-29",
+    "links": {
+        "website": "https://triliumnotes.org/",
+        "source": "https://github.com/TriliumNext/Trilium",
+        "review": "https://enchantedcode.co.uk/blog/now-self-hosted-9"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Shiori",
+    "description": "Shiori is a simple bookmarks manager.",
+    "tags": [
+        "bookmark"
+    ],
+    "state": "stable",
+    "lastChecked": "2022-11-01",
+    "links": {
+        "website": null,
+        "source": "https://github.com/go-shiori/shiori",
+        "review": "https://enchantedcode.co.uk/blog/now-self-hosted-3/#shiori"
+    }
+}

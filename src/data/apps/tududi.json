@@ -1,0 +1,14 @@
+{
+    "title": "tududi",
+    "description": "task management that combines the simplicity of personal with the power of professional project organization.",
+    "tags": [
+        "task-management"
+    ],
+    "state": "unstable",
+    "lastChecked": "2025-01-31",
+    "links": {
+        "website": null,
+        "source": "https://github.com/chrisvel/tududi",
+        "review": "https://enchantedcode.co.uk/blog/now-self-hosted-8/"
+    }
+}

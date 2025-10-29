@@ -1,0 +1,14 @@
+{
+    "title": "It Tools",
+    "description": "Collection of handy online tools for developers, with great UX.",
+    "tags": [
+        "tool"
+    ],
+    "state": "stable",
+    "lastChecked": "2023-08-30",
+    "links": {
+        "website": "https://it-tools.tech/",
+        "source": "https://github.com/CorentinTh/it-tools",
+        "review": "https://enchantedcode.co.uk/blog/now-self-hosted-5/#it-tools"
+    }
+}

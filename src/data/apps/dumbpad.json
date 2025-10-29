@@ -1,0 +1,14 @@
+{
+    "title": "DumbPad",
+    "description": "A stupid simple, modern notepad application with auto-save functionality and dark mode support.",
+    "tags": [
+        "note-taking"
+    ],
+    "state": "stable",
+    "lastChecked": "2025-03-30",
+    "links": {
+        "website": null,
+        "source": "https://github.com/DumbWareio/DumbPad",
+        "review": "https://enchantedcode.co.uk/blog/now-self-hosted-10"
+    }
+}

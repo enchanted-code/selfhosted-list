@@ -1,0 +1,14 @@
+{
+    "title": "Nullboard",
+    "description": "Nullboard is a minimalist kanban board, focused on compactness and readability.",
+    "tags": [
+        "task-management"
+    ],
+    "state": "unstable",
+    "lastChecked": "2024-04-24",
+    "links": {
+        "website": null,
+        "source": "https://github.com/apankrat/nullboard",
+        "review": "https://enchantedcode.co.uk/blog/now-self-hosted-7/"
+    }
+}

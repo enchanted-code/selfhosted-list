@@ -1,0 +1,15 @@
+{
+    "title": "Yacht",
+    "description": "A web interface for managing docker containers with an on 1 click deployments.",
+    "tags": [
+        "container",
+        "server-management"
+    ],
+    "state": "unstable",
+    "lastChecked": "2022-08-11",
+    "links": {
+        "website": "https://yacht.sh/",
+        "source": "https://github.com/SelfhostedPro/Yacht",
+        "review": "https://enchantedcode.co.uk/blog/now-self-hosted-1/#yacht"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Fenrus",
+    "description": "A personal home page for quick access to all your apps/sites.",
+    "tags": [
+        "dashboard"
+    ],
+    "state": "stable",
+    "lastChecked": "2022-11-01",
+    "links": {
+        "website": null,
+        "source": "https://github.com/revenz/Fenrus",
+        "review": "https://enchantedcode.co.uk/blog/now-self-hosted-3/#fenrus"
+    }
+}

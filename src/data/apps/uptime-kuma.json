@@ -1,0 +1,14 @@
+{
+    "title": "Uptime Kuma",
+    "description": "A fancy self-hosted monitoring tool",
+    "tags": [
+        "monitoring"
+    ],
+    "state": "stable",
+    "lastChecked": "2022-08-11",
+    "links": {
+        "website": "https://uptime.kuma.pet/",
+        "source": "https://github.com/louislam/uptime-kuma",
+        "review": "https://enchantedcode.co.uk/blog/now-self-hosted-1/#uptime-kuma"
+    }
+}

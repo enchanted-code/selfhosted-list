@@ -1,0 +1,14 @@
+{
+    "title": "Homepage",
+    "description": "A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.",
+    "tags": [
+        "dashboard"
+    ],
+    "state": "stable",
+    "lastChecked": "2022-11-01",
+    "links": {
+        "website": "https://gethomepage.dev/",
+        "source": "https://github.com/gethomepage/homepage",
+        "review": "https://enchantedcode.co.uk/blog/now-self-hosted-3/#homepage"
+    }
+}

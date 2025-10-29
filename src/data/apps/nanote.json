@@ -1,0 +1,14 @@
+{
+    "title": "Nanote",
+    "description": "Lightweight, self-hosted note-taking application with filesystem-based storage.",
+    "tags": [
+        "note-taking"
+    ],
+    "state": "unstable",
+    "lastChecked": "2025-03-30",
+    "links": {
+        "website": null,
+        "source": "https://github.com/omarmir/nanote",
+        "review": "https://enchantedcode.co.uk/blog/now-self-hosted-10"
+    }
+}

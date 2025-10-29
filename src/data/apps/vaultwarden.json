@@ -1,0 +1,14 @@
+{
+    "title": "Vaultwarden",
+    "description": "Unofficial Bitwarden compatible server written in Rust.",
+    "tags": [
+        "password-manager"
+    ],
+    "state": "stable",
+    "lastChecked": "2022-11-01",
+    "links": {
+        "website": null,
+        "source": "https://github.com/dani-garcia/vaultwarden",
+        "review": "https://enchantedcode.co.uk/blog/now-self-hosted-3/#vaultwarden"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Blocky",
+    "description": "DNS proxy and ad-blocker for the local network",
+    "tags": [
+        "dns"
+    ],
+    "state": "stable",
+    "lastChecked": "2023-03-04",
+    "links": {
+        "website": "https://0xerr0r.github.io/blocky",
+        "source": "https://github.com/0xERR0R/blocky",
+        "review": "https://enchantedcode.co.uk/blog/now-self-hosted-4/#blocky"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Planka",
+    "description": "kanban-style project mastering tool for everyone.",
+    "tags": [
+        "task-management"
+    ],
+    "state": "stable",
+    "lastChecked": "2024-04-24",
+    "links": {
+        "website": "https://planka.app/",
+        "source": "https://github.com/plankanban/planka",
+        "review": "https://enchantedcode.co.uk/blog/now-self-hosted-7/"
+    }
+}

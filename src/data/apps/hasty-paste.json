@@ -1,0 +1,14 @@
+{
+    "title": "Hasty Paste II",
+    "description": "Paste it all, with haste.",
+    "tags": [
+        "pastebin"
+    ],
+    "state": "stable",
+    "lastChecked": "2025-10-29",
+    "links": {
+        "website": "https://hastypaste.docs.enchantedcode.co.uk",
+        "source": "https://github.com/enchant97/hasty-paste",
+        "review": null
+    }
+}

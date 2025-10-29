@@ -1,0 +1,14 @@
+{
+    "title": "Many Notes",
+    "description": "Markdown note-taking web application designed for simplicity.",
+    "tags": [
+        "note-taking"
+    ],
+    "state": "stable",
+    "lastChecked": "2025-02-28",
+    "links": {
+        "website": null,
+        "source": "https://github.com/brufdev/many-notes",
+        "review": "https://enchantedcode.co.uk/blog/now-self-hosted-9"
+    }
+}

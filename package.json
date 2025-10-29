@@ -1,5 +1,6 @@
 {
-  "name": "selfhosted-list-2",
+  "name": "selfhosted-list",
+  "private": true,
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -9,6 +10,11 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.15.2"
+    "@tailwindcss/vite": "^4.1.16",
+    "astro": "^5.15.2",
+    "tailwindcss": "^4.1.16"
+  },
+  "devDependencies": {
+    "daisyui": "^5.3.10"
   }
 }

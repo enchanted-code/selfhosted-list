@@ -1,0 +1,14 @@
+{
+    "title": "Tasks.md",
+    "description": "Markdown file based task management board.",
+    "tags": [
+        "task-management"
+    ],
+    "state": "stable",
+    "lastChecked": "2024-04-24",
+    "links": {
+        "website": null,
+        "source": "https://github.com/BaldissaraMatheus/Tasks.md",
+        "review": "https://enchantedcode.co.uk/blog/now-self-hosted-7/"
+    }
+}

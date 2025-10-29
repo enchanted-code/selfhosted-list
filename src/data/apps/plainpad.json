@@ -1,0 +1,14 @@
+{
+    "title": "Plainpad",
+    "description": "Driven by simplicity and stability in mind.",
+    "tags": [
+        "note-taking"
+    ],
+    "state": "stable",
+    "lastChecked": "2025-02-28",
+    "links": {
+        "website": "https://alextselegidis.com/get/plainpad",
+        "source": "https://github.com/alextselegidis/plainpad",
+        "review": "https://enchantedcode.co.uk/blog/now-self-hosted-9"
+    }
+}

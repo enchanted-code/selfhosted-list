@@ -1,0 +1,14 @@
+{
+    "title": "Memory",
+    "description": "Simple, open-source note-taking application designed for minimalism and efficiency.",
+    "tags": [
+        "note-taking"
+    ],
+    "state": "unstable",
+    "lastChecked": "2025-03-30",
+    "links": {
+        "website": null,
+        "source": "https://github.com/yousboot/Memory",
+        "review": "https://enchantedcode.co.uk/blog/now-self-hosted-10"
+    }
+}

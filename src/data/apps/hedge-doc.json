@@ -1,0 +1,14 @@
+{
+    "title": "HedgeDoc",
+    "description": "Create real-time collaborative markdown notes.",
+    "tags": [
+        "note-taking"
+    ],
+    "state": "stable",
+    "lastChecked": "2023-12-05",
+    "links": {
+        "website": "https://hedgedoc.org/",
+        "source": "https://github.com/hedgedoc/hedgedoc",
+        "review": "https://enchantedcode.co.uk/blog/now-self-hosted-6"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "title": "Wiki.JS",
+    "description": "A modern and powerful wiki app.",
+    "tags": [
+        "wiki",
+        "note-taking"
+    ],
+    "state": "stable",
+    "lastChecked": "2022-09-02",
+    "links": {
+        "website": "https://js.wiki/",
+        "source": "https://github.com/Requarks/wiki",
+        "review": "https://enchantedcode.co.uk/blog/now-self-hosted-1/#wikijs"
+    }
+}

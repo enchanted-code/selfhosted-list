@@ -1,0 +1,14 @@
+{
+    "title": "Whitebophir",
+    "description": "Online collaborative Whiteboard",
+    "tags": [
+        "tool"
+    ],
+    "state": "stable",
+    "lastChecked": "2022-09-02",
+    "links": {
+        "website": "https://wbo.ophir.dev/",
+        "source": "https://github.com/lovasoa/whitebophir",
+        "review": "https://enchantedcode.co.uk/blog/now-self-hosted-2/#wbo"
+    }
+}

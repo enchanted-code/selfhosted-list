@@ -1,0 +1,14 @@
+{
+    "title": "Vikunja",
+    "description": "The to-do app to organize your life.",
+    "tags": [
+        "task-management"
+    ],
+    "state": "stable",
+    "lastChecked": "2023-08-30",
+    "links": {
+        "website": "https://vikunja.io/",
+        "source": "https://github.com/go-vikunja",
+        "review": "https://enchantedcode.co.uk/blog/now-self-hosted-5/#vikunja"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Gitea",
+    "description": "Git with a cup of tea!",
+    "tags": [
+        "software-development"
+    ],
+    "state": "stable",
+    "lastChecked": "2023-08-30",
+    "links": {
+        "website": "https://about.gitea.com/",
+        "source": "https://github.com/go-gitea/gitea",
+        "review": "https://enchantedcode.co.uk/blog/now-self-hosted-5/#gitea"
+    }
+}

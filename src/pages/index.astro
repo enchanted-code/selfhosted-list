@@ -1,16 +1,16 @@
 ---
-
+import Base from "~/components/Base.astro";
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
-</html>
+<Base>
+    <div class="hero mt-12">
+        <div class="hero-content text-center">
+            <div>
+                <h1 class="text-5xl font-bold">Self-Hosted Apps List</h1>
+                <p class="p-2">A list of self-hostable apps as seen on <a class="link" target="_blank" href="https://enchantedcode.co.uk">enchantedcode</a>.</p>
+                <a class="btn btn-primary mt-4" href="/apps">View Apps</a>
+                <a class="btn btn-primary mt-4" href="/tags">View Tags</a>
+            </div>
+        </div>
+    </div>
+</Base>

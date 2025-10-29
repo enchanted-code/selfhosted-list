@@ -1,0 +1,14 @@
+{
+    "title": "Wallos",
+    "description": "Open-Source Personal Subscription Tracker.",
+    "tags": [
+        "money-management"
+    ],
+    "state": "stable",
+    "lastChecked": "2025-01-31",
+    "links": {
+        "website": null,
+        "source": "https://github.com/ellite/Wallos",
+        "review": "https://enchantedcode.co.uk/blog/now-self-hosted-8/"
+    }
+}
