@@ -5,7 +5,10 @@ import tailwindcss from '@tailwindcss/vite';
 
 // https://astro.build/config
 export default defineConfig({
-  vite: {
-    plugins: [tailwindcss()]
-  }
+    site: "https://sh-list.enchantedcode.co.uk/",
+    base: "/",
+    trailingSlash: "always",
+    vite: {
+        plugins: [tailwindcss()]
+    }
 });

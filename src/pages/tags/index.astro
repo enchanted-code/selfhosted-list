@@ -15,7 +15,7 @@ const tags = await getCollection("tags");
                         <span class="text-lg font-bold">{post.data.title}</span>
                         <p class="ml-4">{post.data.description}</p>
                     </div>
-                    <a class="btn btn-soft ml-auto" href={`/tags/${post.id}`}>Related Apps</a>
+                    <a class="btn btn-soft ml-auto" href={`/tags/${post.id}/`}>Related Apps</a>
                 </li>
             ))}
         </ul>

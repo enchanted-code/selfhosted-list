@@ -17,7 +17,7 @@ const { Content } = await render(post);
         <div class="flex flex-col gap-2">
             <ul class="flex gap-2">
             {post.data.tags.map(tag => (
-                <li class="badge badge-sm badge-neutral"><a href=`/tags/${tag}`>{tag}</a></li>
+                <li class="badge badge-sm badge-neutral"><a href=`/tags/${tag}/`>{tag}</a></li>
             ))}
             </ul>
             <div>

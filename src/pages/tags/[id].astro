@@ -23,7 +23,7 @@ const apps = (await getCollection("apps")).filter(app => app.data.tags.includes(
                         <span class="text-lg font-bold">{app.data.title}</span>
                         <ul class="flex gap-2 ml-4">
                         {app.data.tags.map(tag => (
-                            <li class="badge badge-sm badge-neutral"><a href=`/tags/${tag}`>{tag}</a></li>
+                            <li class="badge badge-sm badge-neutral"><a href=`/tags/${tag}/`>{tag}</a></li>
                         ))}
                         </ul>
                         <p class="ml-4">{app.data.description}</p>
@@ -32,7 +32,7 @@ const apps = (await getCollection("apps")).filter(app => app.data.tags.includes(
                         {app.data.state === "unstable" && <div class="badge badge-soft badge-warning">Unstable</div>}
                         {app.data.state === "stable" && <div class="badge badge-soft badge-success">Stable</div>}
                         {app.data.state === "abandoned" && <div class="badge badge-soft badge-error">Abandoned</div>}
-                        <a class="btn btn-soft" href={`/apps/${app.id}`}>More Info</a>
+                        <a class="btn btn-soft" href={`/apps/${app.id}/`}>More Info</a>
                     </div>
                 </li>
             ))}

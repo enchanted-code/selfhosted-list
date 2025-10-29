@@ -15,7 +15,7 @@ const apps = await getCollection("apps");
                         <span class="text-lg font-bold">{post.data.title}</span>
                         <ul class="flex gap-2 ml-4">
                         {post.data.tags.map(tag => (
-                            <li class="badge badge-sm badge-neutral"><a href=`/tags/${tag}`>{tag}</a></li>
+                            <li class="badge badge-sm badge-neutral"><a href=`/tags/${tag}/`>{tag}</a></li>
                         ))}
                         </ul>
                         <p class="ml-4">{post.data.description}</p>
@@ -24,7 +24,7 @@ const apps = await getCollection("apps");
                         {post.data.state === "unstable" && <div class="badge badge-soft badge-warning">Unstable</div>}
                         {post.data.state === "stable" && <div class="badge badge-soft badge-success">Stable</div>}
                         {post.data.state === "abandoned" && <div class="badge badge-soft badge-error">Abandoned</div>}
-                        <a class="btn btn-soft" href={`/apps/${post.id}`}>More Info</a>
+                        <a class="btn btn-soft" href={`/apps/${post.id}/`}>More Info</a>
                     </div>
                 </li>
             ))}
