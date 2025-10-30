@@ -18,21 +18,21 @@ const apps = (await getCollection("apps")).filter(app => app.data.tags.includes(
         <p>{post.data.description}</p>
         <ul class="list bg-base-200">
             {apps.map(app => (
-                <li class="list-row flex items-center">
-                    <div>
+                <li class="list-row grid grid-cols-1 items-center">
+                    <div class="col-span-full">
                         <span class="text-lg font-bold">{app.data.title}</span>
-                        <ul class="flex gap-2 ml-4">
+                        <ul class="flex flex-nowrap gap-2 w-full ml-4 max-sm:ml-0 overflow-x-auto">
                         {app.data.tags.map(tag => (
-                            <li class="badge badge-sm badge-neutral"><a href=`/tags/${tag}/`>{tag}</a></li>
+                            <li class="badge badge-sm badge-neutral w-fit hyphens-none text-nowrap"><a href=`/tags/${tag}/`>{tag}</a></li>
                         ))}
                         </ul>
-                        <p class="ml-4">{app.data.description}</p>
+                        <p class="ml-4 max-sm:ml-0">{post.data.description}</p>
                     </div>
-                    <div class="ml-auto">
-                        {app.data.state === "unstable" && <div class="badge badge-soft badge-warning">Unstable</div>}
-                        {app.data.state === "stable" && <div class="badge badge-soft badge-success">Stable</div>}
-                        {app.data.state === "abandoned" && <div class="badge badge-soft badge-error">Abandoned</div>}
-                        <a class="btn btn-soft" href={`/apps/${app.id}/`}>More Info</a>
+                    <div class="ml-auto gap-2 flex flex-nowrap items-center max-sm:flex-col">
+                        {app.data.state === "unstable" && <div class="badge badge-soft badge-warning max-sm:badge-sm min-w-fit">Unstable</div>}
+                        {app.data.state === "stable" && <div class="badge badge-soft badge-success max-sm:badge-sm min-w-fit">Stable</div>}
+                        {app.data.state === "abandoned" && <div class="badge badge-soft badge-error max-sm:badge-sm min-w-fit">Abandoned</div>}
+                        <a class="btn btn-soft max-sm:btn-sm" href={`/apps/${app.id}/`}>More Info</a>
                     </div>
                 </li>
             ))}
