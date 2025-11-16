@@ -1,2 +1,39 @@
 @import "tailwindcss";
-@plugin "daisyui";
+
+@plugin "daisyui" {
+    themes: light --default, dark --prefersdark;
+}
+
+@plugin "daisyui/theme" {
+    name: "light";
+    default: true;
+    --color-primary: oklch(0.5514 0.1251 248.34);
+    --radius-field: var(--radius-xl);
+}
+
+@plugin "daisyui/theme" {
+    name: "dark";
+    prefersdark: true;
+    --color-primary: oklch(0.45 0.1251 248.34);
+    --radius-field: var(--radius-xl);
+}
+
+@utility shadow-glass {
+    box-shadow: inset -1px 1px 3px 0 rgba(0, 0, 0, 0.2), 0px 0px 5px 0px rgba(0, 0, 0, 0.1);
+
+    @variant dark {
+        box-shadow: inset -1px 1px 3px 0 rgba(255, 255, 255, 0.3), 0px 0px 5px 0px rgba(0, 0, 0, 0.4);
+    }
+}
+
+@layer utilities {
+
+    .btn,
+    .badge {
+        @apply shadow-glass;
+    }
+
+    .btn.btn-ghost {
+        @apply shadow-none;
+    }
+}
